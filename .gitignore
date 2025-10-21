@@ -1,2 +1,7 @@
 # Ignore only data folders' contents
 data/**
+
+# Ignore local virtual environments
+.venv/
+venv/
+env/
