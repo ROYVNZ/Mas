@@ -4,4 +4,4 @@ data/**
 # Ignore local virtual environments
 .venv/
 venv/
-venv/** 
+venv/**
