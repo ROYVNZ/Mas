@@ -5,3 +5,7 @@ data/**
 .venv/
 venv/
 venv/**
+
+
+# Ignore Figures
+Figures & Tables/**
